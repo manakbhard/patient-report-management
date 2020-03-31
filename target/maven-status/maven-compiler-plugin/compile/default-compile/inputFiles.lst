@@ -1,0 +1,12 @@
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\model\Patient.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\dto\PatientDto.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\service\PatientServiceImpl.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\model\PatientLogin.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\model\UploadFileResponse.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\dao\PatientDao.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\service\PatientService.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\configuration\FileStorageProperties.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\dao\PatientDaoImpl.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\exception\MyFileNotFoundException.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\controller\PatientController.java
+C:\Users\Manak\hackathon\patient-report-management\src\main\java\com\skillenza\exception\FileStorageException.java
